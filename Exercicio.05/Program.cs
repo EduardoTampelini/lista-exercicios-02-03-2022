@@ -34,7 +34,7 @@ namespace Exercicio._05
 
             decimal resultFinal = valor1Convertido % valor2Convertido;
 
-            Console.WriteLine($"Resultado da divisao: {resultFinal} ");
+            Console.WriteLine($"Resto da Divisao: {resultFinal} ");
 
             Console.ReadLine();
         }
