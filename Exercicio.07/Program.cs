@@ -18,13 +18,13 @@ namespace Exercicio._07
 
             if (idade >= 0 && idade <= 19)
             {
-                Console.WriteLine("Você é Joven");
+                Console.WriteLine($"{nome} Você é Joven");
             }else if(idade >= 20 && idade <= 59)
             {
-                Console.WriteLine("Você é Adulto");
+                Console.WriteLine($"{nome} Você é Adulto");
             }else if (idade >= 60)
             {
-                Console.WriteLine("Você é Idoso");
+                Console.WriteLine($"{nome} Você é Idoso");
             }
             else
             {
