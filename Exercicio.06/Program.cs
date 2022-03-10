@@ -20,6 +20,10 @@ namespace Exercicio._06
                 {
                     vogais++;
                 }
+                else if (letra.Equals(' '))
+                {
+                    // apenas para tirar os espaços da frase
+                }
                 else
                 {
                     consoante++;
