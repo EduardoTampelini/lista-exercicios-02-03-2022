@@ -23,13 +23,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Exercicio", "05-Exercici
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.05", "Exercicio.05\Exercicio.05.csproj", "{562F664A-CB3B-4CFC-B62D-A276CC4DD5C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Exercicio", "06-Exercicio", "{182B5BB8-F914-413A-A953-C99D2E9B5337}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.08-Exercicio", "06.08-Exercicio", "{182B5BB8-F914-413A-A953-C99D2E9B5337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.06", "Exercicio.06\Exercicio.06.csproj", "{80A4EA35-67A1-46AF-86D8-549CB09B38E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.06", "Exercicio.06\Exercicio.06.csproj", "{80A4EA35-67A1-46AF-86D8-549CB09B38E4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Exercicio", "07-Exercicio", "{4F6EE08F-82CE-4063-AFC7-F37873DEB897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.07", "Exercicio.07\Exercicio.07.csproj", "{DA1D60B5-CC69-49C4-870A-FD4871C9B105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.07", "Exercicio.07\Exercicio.07.csproj", "{DA1D60B5-CC69-49C4-870A-FD4871C9B105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
