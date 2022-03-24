@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exercicio._09
 {
-    struct LivroStruct
+    internal struct LivroStruct
     {
         public string Titulo { get; private set; }
         public string Autor { get; private set; }
