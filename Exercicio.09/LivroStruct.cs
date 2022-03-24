@@ -19,7 +19,7 @@ namespace Exercicio._09
             Valor = valor;
 
         }
-        public string ToString()
+        public override string ToString()
         {
             return $"Titulo: {Titulo} \n" +
                 $"Autor: {Autor} \n" +
