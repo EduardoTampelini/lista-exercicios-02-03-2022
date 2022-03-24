@@ -30,8 +30,8 @@ namespace Exercicio._10
         }
         public string NotasMedia()
         {
-            int nota = ObterFalta();
-            if (nota <= 70)
+            int nota = ObterNota();
+            if (nota >= 70)
             {
                 return $"Sua média foi {ObterNota()} : APROVADO!";
             }
